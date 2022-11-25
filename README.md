@@ -1,6 +1,6 @@
 # Intelligent Automation with IBM Cloud Pak for Business Automation
 
-<a href=""><img src="" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/intelligent-automation-with-ibm-cloud-pak-for-business-automation/9781801814775"><img src="https://static.packt-cdn.com/products/9781801814775/cover/smaller" alt="" height="256px" align="right"></a>
 
 This is the code repository for [Intelligent Automation with IBM Cloud Pak for Business Automation](), published by Packt.
 

@@ -70,3 +70,8 @@ works as the Chief Architect for IBM Cloud Pak for Business Automation Adoption 
  works as an IBM Architect and is a member of the IBM Business Automation CTO Office. She leads the architecture for IBM Blueworks Live and is helping to define the SaaS onboarding strategy for IBM Watson Orchestrate. Her educational background includes B. Sc. in Computer Science, University of Toronto, Canada.
 
 
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801814775">https://packt.link/free-ebook/9781801814775 </a> </p>

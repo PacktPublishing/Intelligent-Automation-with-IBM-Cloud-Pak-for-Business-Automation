@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781801814775)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Intelligent Automation with IBM Cloud Pak for Business Automation
 
 <a href="https://www.packtpub.com/product/intelligent-automation-with-ibm-cloud-pak-for-business-automation/9781801814775"><img src="https://static.packt-cdn.com/products/9781801814775/cover/smaller" alt="" height="256px" align="right"></a>
